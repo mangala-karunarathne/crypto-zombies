@@ -10,6 +10,6 @@ contract ZombieFactory {
         uint dna;
     }
 
-    // start here
+    Zombie[] public zombies;
 
 }
